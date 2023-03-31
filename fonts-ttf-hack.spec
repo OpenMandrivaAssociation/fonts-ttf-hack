@@ -1,6 +1,6 @@
 Name:		fonts-ttf-hack
 Version:	3.003
-Release:	1
+Release:	2
 Summary:	Hack ttf fonts
 License:	MIT License Bitstream Vera License
 Group:		System/Fonts/True type
